@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí  
 - 🐍 Desarrollo con **Python** orientado a aplicaciones web  
 - 🎨 Enfoque en **diseño web** y buenas prácticas de UI/UX  
-- 🗄️ Aprendiendo y aplicando **bases de datos (SQL, PostgreSQL, MySQL)**  
+- 🗄️ Aprendiendo y aplicando **bases de datos (PostgreSQL, SQL Server)**
 - 🌱 En crecimiento hacia un perfil **Fullstack** (Backend + Frontend + BD)  
 - 🔍 Curioso, autodidacta y siempre buscando mejorar  
 
