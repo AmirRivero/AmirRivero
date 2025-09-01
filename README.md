@@ -35,4 +35,4 @@
 💼 [LinkedIn](https://pe.linkedin.com/in/amir12-rivero)  
 
 ---
-✨ *all we need is love.*  
+*all we need is love.*  
