@@ -22,7 +22,7 @@
 
 ### Bases de datos  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) 
 
 ### Herramientas  
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)  
@@ -31,8 +31,8 @@
 ---
 
 ## 📈 GitHub Stats  
-![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuUsuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuUsuario&layout=compact&theme=tokyonight)  
+![Amir's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirRivero&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirRivero&layout=compact&theme=tokyonight)
 
 ---
 
