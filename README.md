@@ -8,8 +8,7 @@
 - 🐍 Desarrollo con **Python** orientado a aplicaciones web  
 - 🎨 Enfoque en **diseño web** y buenas prácticas de UI/UX  
 - 🗄️ Aprendiendo y aplicando **bases de datos (PostgreSQL, SQL Server)**
-- 🌱 En crecimiento hacia un perfil **Fullstack** (Backend + Frontend + BD)  
-- 🔍 Curioso, autodidacta y siempre buscando mejorar  
+- 🔍 Autodidacta y siempre buscando mejorar  
 
 ---
 
@@ -36,4 +35,4 @@
 💼 [LinkedIn](https://pe.linkedin.com/in/amir12-rivero)  
 
 ---
-✨ *"El aprendizaje constante es la mejor inversión en tecnología."*  
+✨ *all we need is love.*  
